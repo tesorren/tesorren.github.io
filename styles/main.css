@@ -1,6 +1,6 @@
 
 
-#shadow {
-    color: blue;
-    text-shadow: 2px 2px red;
+.shadow {
+ color: maroon;
+ text-shadow: 2px 2px maroon;
 }
