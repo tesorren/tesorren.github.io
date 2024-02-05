@@ -18,6 +18,10 @@ h2 {
  font-size: 130%;
 }
 
+#profile_pic {
+ float: left;
+}
+
 .shadow {
  color: maroon;
  text-shadow: 2px 2px 2px maroon;
