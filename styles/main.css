@@ -3,6 +3,14 @@ body {
  font-size: 100%;
  margin-left: 10px;
 }
+a:focus {
+ font-style: italic;
+ color: orangered;
+}
+a:hover {
+ font-style: italic;
+ color: orangered;
+}
 h1 {
  font-size: 175%;
 }
