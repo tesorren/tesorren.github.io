@@ -12,7 +12,7 @@ h2 {
 
 .shadow {
  color: maroon;
- text-shadow: 2px 2px maroon;
+ text-shadow: 2px 2px 2px maroon;
  text-indent: 30px;
 }
 
