@@ -10,11 +10,7 @@ footer {
  text-align: center;
  font-size: 80%;
 }
-a:focus {
- font-style: italic;
- color: orangered;
-}
-a:hover {
+a:focus, a:hover {
  font-style: italic;
  color: orangered;
 }
@@ -40,7 +36,10 @@ h3 {
  float: left;
 }
 
-
+p.copyright {
+ text-align: center;
+ font-size: 80%;
+}
 .shadow {
  text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
