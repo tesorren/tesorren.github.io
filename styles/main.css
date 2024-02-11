@@ -44,5 +44,9 @@ p.copyright {
  text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 
+div p {
+ line-height: 32px;
+ vertical-align: middle;
+}
 
 
