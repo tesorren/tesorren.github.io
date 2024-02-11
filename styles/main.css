@@ -36,18 +36,6 @@ h3 {
  float: left;
 }
 
-#linkedin_icon {
- list-style-image: url(https://tesorren.github.io/images/ln_32.png);
-}
-
-#mailto_icon {
- list-style-image: url(https://tesorren.github.io/images/mail_32.png);
-}
-
-#tel_icon {
- list-style-image: url(https://tesorren.github.io/images/phone_32.png);
-}
-
 p.copyright {
  text-align: center;
  font-size: 80%;
@@ -56,5 +44,8 @@ p.copyright {
  text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 
+.middle_center_alignment {
+ padding: 70px 0;
+}
 
 
