@@ -44,8 +44,7 @@ p.copyright {
  text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 
-.contact_padding {
- padding-top: 10px;
- padding-bottom: 10px;
+div p {
+ vertical-align: middle;
 }
 
