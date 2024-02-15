@@ -57,11 +57,11 @@ h3 {
 }
 #profile_pic {
     float: left;
-    margin-left: 2em;
+    margin-left: 4.5em;
 }
    
 .contacts {
-    margin: 1.5em 2.0em 0em 2em;
+    margin: 1.5em 2em 0em;
     border: 5px dotted blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px;
