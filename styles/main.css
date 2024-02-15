@@ -36,6 +36,14 @@ h3 {
  float: left;
 }
 
+.contacts {
+ margin-top: 1.5em 2.0em 0em 2em;
+ border: 5px dotted blue;
+ border-radius: 20px;
+ box-shadow: 3px 3px 4px 4px;
+ padding: 1em;
+}
+
 .div_logo {
  float: left;
 }
