@@ -35,10 +35,10 @@ h3 {
 #profile_pic {
  float: left;
 }
-#con_icons {
+
+.contacts img {
  float: left;
 }
-
 
 p.copyright {
  text-align: center;
