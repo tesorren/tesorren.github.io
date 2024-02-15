@@ -70,14 +70,14 @@ h3 {
 .contacts div {
     border: 2px solid black;
     border-radius: 25px;
-    margin: 10px;
+    margin: 10px 10px;
     width: 300px;
     padding: 0 10px;
 }
-   
+
 .contacts img {
-    float: left;
-    padding: 8px;
+	float: left;
+	padding: 8px 6px 0px;
 }
    
 p.copyright {
