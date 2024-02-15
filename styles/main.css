@@ -46,7 +46,7 @@ h2 {
  text-indent: 30px;
 }
 h3 {
- margin-top: 3em 2em 1.5em;
+ margin: 3em 2em 1.5em;
  font-size: 105%;
  border: 5px double blue;
  border-radius: 20px;
@@ -63,7 +63,7 @@ h3 {
 }
 
 .contacts {
- margin-top: 1.5em 2.0em 0em 2em;
+ margin: 1.5em 2.0em 0em 2em;
  border: 5px dotted blue;
  border-radius: 20px;
  box-shadow: 3px 3px 4px 4px;
@@ -75,11 +75,11 @@ h3 {
 }
 
 .contacts div {
-    border: 2px solid black;
-    border-radius: 25px;
-    margin: 10px;
-    width: 300px;
-    padding: 0 10px;
+ border: 2px solid black;
+ border-radius: 25px;
+ margin: 10px;
+ width: 300px;
+ padding: 0 10px;
 }
 
 p.copyright {
