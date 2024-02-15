@@ -35,6 +35,10 @@ h3 {
 #profile_pic {
  float: left;
 }
+#con_icons {
+ float: left;
+}
+
 
 p.copyright {
  text-align: center;
@@ -43,5 +47,3 @@ p.copyright {
 .shadow {
  text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
-
-
