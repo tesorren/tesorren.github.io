@@ -26,6 +26,11 @@ h2 {
     color: #800000;
     text-indent: 30px;
 }
+header img {
+    float: left;
+    margin-left: 4.5em;
+    margin-right: 1em;
+}
 main {
     clear: left;
     margin: 1.5em 2em 1.5em;
@@ -53,11 +58,6 @@ main h3 {
    
 #list {
     line-height: 1.5em;
-}
-#profile_pic {
-    float: left;
-    margin-left: 4.5em;
-    margin-right: 1em;
 }
    
 .contacts {
