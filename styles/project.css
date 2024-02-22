@@ -61,6 +61,7 @@ aside {
     width: 20%; 
     float: right;
     background-color: #ffebc6;
+    padding-left: 1em;
 }
 
 p.fixed {
