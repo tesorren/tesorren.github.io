@@ -96,5 +96,6 @@ p.copyright {
 }
 
 p.break {
+    clear: left;
     border-bottom: 2px solid maroon;
 }
