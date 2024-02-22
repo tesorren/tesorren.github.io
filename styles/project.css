@@ -95,7 +95,7 @@ p.copyright {
     font-size: 80%;
 }
 
-br.bottom_border {
+br#bottom_border {
     clear: left;
     border-bottom: 2px solid maroon;
 }
