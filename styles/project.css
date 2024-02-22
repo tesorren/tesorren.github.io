@@ -20,6 +20,10 @@ a:focus, a:hover {
     border-style: dotted solid;
 }
 
+header {
+    border-bottom: 2px solid maroon;
+}
+
 h1 {
     font-size: 175%;
     color: maroon;
@@ -93,9 +97,4 @@ footer {
 p.copyright {
     text-align: center;
     font-size: 80%;
-}
-
-br#bottom_border {
-    clear: left;
-    border-bottom: 2px solid maroon;
 }
