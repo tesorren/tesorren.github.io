@@ -22,6 +22,7 @@ a:focus, a:hover {
 
 header {
     border-bottom: 2px solid maroon;
+    height: auto;
 }
 
 h1 {
