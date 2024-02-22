@@ -39,7 +39,6 @@ article {
     column-rule: 2px dotted maroon;
     column-gap: 2em;
     margin-left: 2em;
-    border-top: 2px solid maroon;
 }
 
 article h3 {
@@ -94,4 +93,8 @@ footer {
 p.copyright {
     text-align: center;
     font-size: 80%;
+}
+
+p.break {
+    border-bottom: 2px solid maroon;
 }
