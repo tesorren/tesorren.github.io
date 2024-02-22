@@ -38,6 +38,13 @@ article {
     column-gap: 2em;
     margin-left: 2em;
 }
+aside {
+ float: right;
+}
+
+footer {
+ clear: both;
+}
 
 .shadow {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
@@ -46,4 +53,9 @@ article {
 #profile_pic {
     float: left;
     margin-left: 4.5em;
+}
+
+p.copyright {
+    text-align: center;
+    font-size: 80%;
 }
