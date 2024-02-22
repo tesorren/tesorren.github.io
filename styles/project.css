@@ -12,15 +12,16 @@ body {
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
 }
+
+body header {
+    border-bottom: 2px solid maroon;
+}
+
 a:focus, a:hover {
     font-style: italic;
     color: orangered;
     border: 3px blue;
     border-style: dotted solid;
-}
-
-header {
-    border-bottom: 2px solid maroon;
 }
 
 h1 {
