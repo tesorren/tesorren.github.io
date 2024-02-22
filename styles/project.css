@@ -37,9 +37,6 @@ article {
     column-gap: 2em;
     margin-left: 2em;
 }
-aside {
- float: right;
-}
 
 footer {
  clear: both;
