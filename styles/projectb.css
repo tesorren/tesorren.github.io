@@ -1,0 +1,36 @@
+#nav_menu ul {
+    list-style-type: none;
+    padding: 1em 0;
+    text-align: center;
+    overflow: hidden;
+    margin-left: 2em;
+}
+#nav_menu ul li {
+    float: left;
+    margin: 0 1px;
+    padding: 0.75em 3em;
+    width: 75px;
+    background-color: blue;
+}
+
+#nav_menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#nav_menu a:hover, #nav_menu a:focus, #nav_menu a:active {
+    color: yellow;
+}
+
+article {
+    clear: left;
+}
+
+aside ol {
+    list-style-type: upper-roman;
+}
+
+aside ul {
+    list-style-type: square;
+}
