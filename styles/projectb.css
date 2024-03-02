@@ -34,3 +34,8 @@ aside ol {
 aside ul {
     list-style-type: square;
 }
+
+p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
