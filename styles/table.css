@@ -1,0 +1,80 @@
+html {
+    margin: 0;
+    height: 100%;
+    font-size: 100%;
+    background-image: linear-gradient(to left, white 0%, lightskyblue 100%);
+}
+body {
+    width: 90vw;
+    margin: 2.1em auto 0;
+    font-size: 100%;
+    background-color: white;
+    border: 4px solid black;
+    border-radius: 25px;
+    padding:1em 2em 0.5em;
+}
+
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+/*-----------------------------------------------------------*/
+table.first {
+        border-collapse: separate;
+        border: 2px solid black;    
+}
+table.first th, table.first td {
+        border: 2px solid blue;
+}
+table.first tr:nth-child(odd) {
+    background-color: lightblue;
+}
+/*-----------------------------------------------------------*/
+table.second {    
+    border-collapse: collapse; 
+    border: 2px solid purple;   
+    caption-side: bottom;
+}
+table.second th {
+    background-color: salmon;
+}
+table.second th, table.second td {
+    padding: 0.7em;  
+    vertical-align: middle;
+    border: 2px solid purple;
+}
+table.second thead tr:first-child{     
+    border-bottom: 2px solid purple;
+}
+/*-----------------------------------------------------------*/
+table.third {    
+    border-collapse: collapse; 
+    border-top: 2px solid red;   
+    caption-side: bottom;
+    border-bottom: 2px solid red;
+    font-size: 1.1em;
+}
+table.third tr:nth-child(2) {
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
+table.third th {
+    background-color: lightgreen;
+}
+table.third th, table.third td {
+    padding: 0.7em;  
+    vertical-align: top;
+}
+p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
+
+@media only screen and (max-width: 425px) {
+    th, td {
+        display: block;
+    }
+    thead, td.number {
+        display: none;
+        padding: 0;
+    }    
+}
