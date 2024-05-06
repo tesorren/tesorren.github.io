@@ -1,0 +1,19 @@
+html {
+    margin: 0;
+    height: 100%;
+    font-size: 100%;
+    background-image: linear-gradient(to left, white 0%, lightskyblue 100%);
+}
+body {
+    width: 90vw;
+    margin: 2.1em auto 0;
+    font-size: 100%;
+    background-color: white;
+    border: 4px solid black;
+    border-radius: 25px;
+    padding:1em 2em 0.5em;
+}
+p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
