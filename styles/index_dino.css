@@ -64,27 +64,11 @@
             filter: brightness(60%);
         }
 
-        img#dino_1 {
-            width: 75vw;
-        }
-        img#dino_2 {
-            width: 75vw;
-        }
-        img#dino_3 {
-            width: 75vw;
-        }
-        img#dino_4 {
-            width: 75vw;
-        }
-        img#dino_5 {
-            width: 75vw;
-        }
-
         div.text_content {
             padding:0;
             background-color: black;
             font-size: 500%;
-            position: absolute;
+            margin: 0 auto;
             width: fit-content;
             height: 0;
             color: white;
