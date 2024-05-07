@@ -79,6 +79,7 @@
             filter: brightness(100%);
             justify-content: center;
         }
+        /*
         #text_1 {
             top: 30%;
             left: 25%;
@@ -99,6 +100,7 @@
             top: 25%;
             left: 0%;
         }
+        */
         p.copyright {
             color: white;
             text-align: center;
