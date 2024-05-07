@@ -64,13 +64,13 @@
             filter: brightness(60%);
         }
         div.text_content {
+            display: block;
             margin: auto;
             padding:0;
             background-color: black;
             font-size: 500%;
             position: absolute;
             width: 50vw;
-            height: 0;
             color: white;
             text-align: center;
             -webkit-user-select: none; /* Safari */
