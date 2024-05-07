@@ -79,6 +79,7 @@
             top: 15%;
         }
         p.copyright {
+            border-top: 2px solid white;
             color: white;
             text-align: center;
             font-size: 80%;
