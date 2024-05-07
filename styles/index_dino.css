@@ -93,26 +93,7 @@
             -ms-user-select: none; /* IE 10 and IE 11 */
             user-select: none; /* Standard syntax */
             filter: brightness(100%);
-        }
-        #text_1 {
-            top: 30%;
-            left: 25%;
-        }
-        #text_2 {
-            top: 30%;
-            left: 15%;
-        }
-        #text_3 {
-            top: 30%;
-            left: 27.5%;
-        }
-        #text_4 {
-            top: 30%;
-            left: 20%;
-        }
-        #text_5 {
-            top: 25%;
-            left: 0%;
+            justify-content: center;
         }
         p.copyright {
             color: white;
