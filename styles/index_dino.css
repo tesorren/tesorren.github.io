@@ -76,11 +76,8 @@
             user-select: none; /* Standard syntax */
             filter: brightness(100%);
             justify-content: center;
-            left: 20%;
-        }
-        
-        #text_1 {
-            top: 30%;
+            left: 10%;
+            top:10%;
         }
         /*
         #text_2 {
