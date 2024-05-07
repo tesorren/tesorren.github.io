@@ -63,7 +63,6 @@
             width: 75vw;
             filter: brightness(60%);
         }
-        
         div.text_content {
             padding:0;
             background-color: black;
@@ -78,6 +77,26 @@
             user-select: none; /* Standard syntax */
             filter: brightness(100%);
             justify-content: center;
+        }
+        #text_1 {
+            top: 30%;
+            left: 25%;
+        }
+        #text_2 {
+            top: 30%;
+            left: 15%;
+        }
+        #text_3 {
+            top: 30%;
+            left: 27.5%;
+        }
+        #text_4 {
+            top: 30%;
+            left: 20%;
+        }
+        #text_5 {
+            top: 25%;
+            left: 0%;
         }
         p.copyright {
             color: white;
