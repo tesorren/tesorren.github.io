@@ -64,6 +64,7 @@
             filter: brightness(60%);
         }
         div.text_content {
+            margin: auto;
             padding:0;
             background-color: black;
             font-size: 500%;
