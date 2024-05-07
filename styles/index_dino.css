@@ -1,0 +1,121 @@
+ html {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        body {
+            width: 100%;
+            background-image: url(https://dinosaurstoday.github.io/images/main_bg.png);
+            background-attachment:fixed;
+            background-position: left top;
+            background-size: cover;
+            position:absolute;
+            
+        }
+        header{
+            width: fit-content;
+            padding: 1em 2em;
+            margin: 15% auto 0;
+            text-align: center;
+            font-size: 300%;
+            color: #FFF;
+        }
+
+        header>h1 {
+            -webkit-user-select: none; /* Safari */
+            -ms-user-select: none; /* IE 10 and IE 11 */
+            user-select: none; /* Standard syntax */
+        }
+        main {
+            padding: 2.5% 2.5% 5%;
+            width: 80vw;
+            height: auto;
+            margin: 10% auto;
+            background-color: rgb(59, 59, 59);
+            border-radius: 25px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        a.div_content {
+            text-decoration: none;
+        }
+
+        div.div_content {
+            position: relative;
+            margin: 2.5% auto;
+            overflow: hidden;
+            width: fit-content;
+            border-radius: 10px;
+            background-color: white;
+            transition: 1s;
+        } 
+
+        img.image_div {
+            display: block;
+            transition: 1s;
+            filter: brightness(100%);
+            width: 75vw;
+            z-index: 1;
+        }
+        
+
+        img.image_div:hover {
+            transform: scale(1.05); 
+            width: 75vw;
+            filter: brightness(60%);
+        }
+
+        img#dino_1 {
+            width: 75vw;
+        }
+        img#dino_2 {
+            width: 75vw;
+        }
+        img#dino_3 {
+            width: 75vw;
+        }
+        img#dino_4 {
+            width: 75vw;
+        }
+        img#dino_5 {
+            width: 75vw;
+        }
+
+        div.text_content {
+            padding:0;
+            background-color: black;
+            font-size: 500%;
+            position: absolute;
+            width: fit-content;
+            height: 0;
+            color: white;
+            text-align: center;
+            -webkit-user-select: none; /* Safari */
+            -ms-user-select: none; /* IE 10 and IE 11 */
+            user-select: none; /* Standard syntax */
+            filter: brightness(100%);
+        }
+        #text_1 {
+            top: 30%;
+            left: 25%;
+        }
+        #text_2 {
+            top: 30%;
+            left: 15%;
+        }
+        #text_3 {
+            top: 30%;
+            left: 27.5%;
+        }
+        #text_4 {
+            top: 30%;
+            left: 20%;
+        }
+        #text_5 {
+            top: 25%;
+            left: 0%;
+        }
+        p.copyright {
+            color: white;
+            text-align: center;
+            font-size: 80%;
+        }
