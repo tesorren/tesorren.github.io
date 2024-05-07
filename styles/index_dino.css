@@ -63,12 +63,12 @@
             width: 75vw;
             filter: brightness(60%);
         }
-
+        
         div.text_content {
             padding:0;
             background-color: black;
-            font-size: 10vw;
-            margin: 0 auto;
+            font-size: 10vw%;
+            position: absolute;
             width: fit-content;
             height: 0;
             color: white;
